@@ -4,7 +4,7 @@ This data analysis used a Pivot Table and Linear Regression to anyalze the 2019 
 
 The link to where the data was pulled for data collection is: https://www.snap.com/en-US/political-ads/
 
-The link to the excel file: 
+The link to the excel file: https://drive.google.com/file/d/1ircypyVDUGr0GzVX8KPC5DcoXuFxMrCo/view?usp=sharing
 
 ## Findings
 
