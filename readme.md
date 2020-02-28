@@ -32,6 +32,9 @@ Below is listed the findings from the Summary Table
 ![](regression_table.png)
 
 p-values: Are statistically significant for sum of spend and based on postal codes as the p value is less than .05
+
 R square: The best fit line can represent 73% of the data
+
 F critical Value : is 89.9 which means that the data  is quite significant when looking at the joint effect of all the variables together 
+
 Standard Error: shows that for Sum of spend (22.92) this is how much variation there is and for postial codes is 26k impressions per each postal code added
